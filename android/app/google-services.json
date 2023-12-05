@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1090933945004",
+    "project_id": "proyectofinalandroid-a7d02",
+    "storage_bucket": "proyectofinalandroid-a7d02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090933945004:android:84b0dedc621ea998f92509",
+        "android_client_info": {
+          "package_name": "com.cinescope.juliandev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090933945004-a3apili995h89hp8708au39aap1e775p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYJLual-Ru8soptEqY-hN5oivTWbu-B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090933945004-a3apili995h89hp8708au39aap1e775p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090933945004:android:208680a135c92783f92509",
+        "android_client_info": {
+          "package_name": "com.example.cine_scope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090933945004-a3apili995h89hp8708au39aap1e775p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYJLual-Ru8soptEqY-hN5oivTWbu-B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090933945004-a3apili995h89hp8708au39aap1e775p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
